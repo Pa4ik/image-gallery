@@ -1,1 +1,1 @@
-* https://rolling-scopes-school.github.io/pa4ik-JSFEPRESCHOOL2024Q2/shelter/main.html
+* https://pa4ik.github.io/image-gallery/image-gallery/
